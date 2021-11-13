@@ -25,7 +25,7 @@ Dependencies used in the Project:
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/RameshtaVishwakarma/notes-app.git
 ```
 
 Go to the project directory
