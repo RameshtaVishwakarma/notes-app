@@ -59,7 +59,7 @@ Remove a note from the database
 List all the notes in the database:
 
 ```bash
-  node app.js List
+  node app.js list
 ```
 
 Read a note:
